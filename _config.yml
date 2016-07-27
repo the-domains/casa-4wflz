@@ -1,0 +1,14 @@
+layout_spectrum: 0.7901028750929981
+typography_spectrum: 0.6533609058242291
+color:
+  brandStrength: 0.1328372834250331
+  lightness: 0.06424963637255132
+  saturation: 0.27476543257944286
+  rhythmicContrast: 0.03089810279197991
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+name: casa
